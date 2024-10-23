@@ -2,7 +2,7 @@
 
 ![](https://play-lh.googleusercontent.com/4MeT0YitpkHv4VgRaW1bttvEPCbOWfQLMG3gp6alUze3tt78Orux2VKhZ4pH0XxNe3w=w240-h480-rw)
 
-## ![Play Store Link](https://play.google.com/store/apps/details?id=gpsmap.camera.location)
+## [Play Store Link](https://play.google.com/store/apps/details?id=gpsmap.camera.location)
 
 Looking to capture and share your holiday memories or scenic photos? With the GPS Camera : Time Stamp Photos & Videos app, you can add date-time stamps, live maps, latitude and longitude, weather, magnetic field data, and a compass to your photos. Track your location in real-time along with your captured images. Easily share these geotagged photos and videos with friends and family to let them know about your memorable moments.
 
